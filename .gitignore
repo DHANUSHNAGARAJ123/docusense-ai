@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/docusense.db
+backend/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Environment files (IMPORTANT - API keys!)
+backend/.env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
